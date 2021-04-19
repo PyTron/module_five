@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch rumors",
+            "request": "launch",
+            "mainClass": "rumors",
+            "projectName": "module_five_26686f07"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Classwork1",
+            "request": "launch",
+            "mainClass": "Classwork1",
+            "projectName": "module_five_26686f07"
+        },
+        {
+            "type": "java",
+            "name": "Launch problemfive",
+            "request": "launch",
+            "mainClass": "problemfive",
+            "projectName": "module_five_26686f07"
+        },
+        {
+            "type": "java",
+            "name": "Launch problemfour",
+            "request": "launch",
+            "mainClass": "problemfour",
+            "projectName": "module_five_26686f07"
+        },
+        {
+            "type": "java",
+            "name": "Launch problemone",
+            "request": "launch",
+            "mainClass": "problemone",
+            "projectName": "module_five_26686f07"
+        },
+        {
+            "type": "java",
+            "name": "Launch problemthree",
+            "request": "launch",
+            "mainClass": "problemthree",
+            "projectName": "module_five_26686f07"
+        },
+        {
+            "type": "java",
+            "name": "Launch problemtwo",
+            "request": "launch",
+            "mainClass": "problemtwo",
+            "projectName": "module_five_26686f07"
+        },
+        {
+            "type": "java",
+            "name": "Launch slotmachine",
+            "request": "launch",
+            "mainClass": "slotmachine",
+            "projectName": "module_five_26686f07"
+        }
+    ]
+}
